@@ -5,6 +5,9 @@ A modern, full-stack CRUD application built with Laravel and JavaScript for mana
 ## Why I built this
 This app was built as a sample project for a potential employer looking for strong PHP and Laravel fundamentals. I kept the feature set minimal to focus on clean structure, secure design, and good developer practices.
 
+## My thought process
+I chose not to use a starter kit so I could get going quickly and show comfort working with JavaScript outside of a framework. Admittedly, I considered using the React starter kit, but this just seemed more fun and quick.
+
 ## Features
 
 - **Complete CRUD Operations**: Create, read, update, and delete check-ins
